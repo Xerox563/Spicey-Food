@@ -1,7 +1,6 @@
+# Spicy-Food 🌶️🍽️
 
-# MealMania 🍽️
-
-Welcome to **MealMania**! MealMania is a modern and intuitive food ordering app that connects users with a variety of local restaurants and eateries. With a user-friendly interface and a seamless ordering process, MealMania offers features like meal count, personalized recommendations, and secure payment options to enhance your dining experience. 🥳
+Welcome to **Spicy-Food**! Spicy-Food is a modern and intuitive food ordering app that connects users with a variety of local restaurants and eateries. With a user-friendly interface and a seamless ordering process, Spicy-Food offers features like meal count, personalized recommendations, and secure payment options to enhance your dining experience. 🥳
 
 ## Key Features 🌟
 
@@ -40,5 +39,5 @@ Follow these steps to get your development environment set up:
    Open your terminal or command prompt and run:
 
    ```bash
-   git clone https://github.com/Xerox563/MealMania.git
-   cd MealMania
+   git clone https://github.com/Xerox563/Spicy-Food.git
+   cd Spicy-Food
